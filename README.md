@@ -1,3 +1,3 @@
 # tesla
 
-[Tesla](https://alexkobrin.github.io/Tesla/ "Tesla Landing") 
+[Tesla](https://alexkobrin.github.io/Tesla/tesla/ "Tesla Landing") 
